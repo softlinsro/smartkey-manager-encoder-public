@@ -3,8 +3,6 @@ Application bridges communication between SmartKey Manager Web and USB-connected
 
 <p align="center">
   <img src="./assets/screen.png">
-
-  <a href="https://github.com/softlinsro/smartkey-manager-encoder-public/releases/latest/download/SmartkeyEncoder-win-Setup.exe" style="margin:auto; text-align:center; display:block;" >Download latest installer</a>
 </p>
 
 ## Requirement
@@ -14,4 +12,7 @@ Application bridges communication between SmartKey Manager Web and USB-connected
 
 [Microsoft Visual C++ 2015](https://aka.ms/vs/17/release/vc_redist.x64.exe) - Missing dependecy from used .dlls (vcruntime140)
 
-> ⚠️ Every dependency will be installed in background or will prompt user with install wizard when installing via `setup.exe` 
+> ⚠️ Every dependency will be installed in background or will prompt user with install wizard when installing via `setup.exe`
+
+## Download
+[Download](https://github.com/softlinsro/smartkey-manager-encoder-public/releases/latest/download/SmartkeyEncoder-win-Setup.exe) - Permalink for latest installer
